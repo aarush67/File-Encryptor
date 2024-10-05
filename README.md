@@ -6,4 +6,4 @@ pip3 install cryptography
 
 
 
-We the author are not liable for any damage caused by this software. The user take for all the misuse of this product
+We the author are not liable for any damage caused by this software. The user of this product takes all resposiblites for the misuse of this product
